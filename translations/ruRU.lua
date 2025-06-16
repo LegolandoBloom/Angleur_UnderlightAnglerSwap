@@ -54,7 +54,7 @@ T["Delve Mode"] = "Режим Вылазок"
 
 T["Keeps the fish form active while submerged inside " .. colorDarkBlu:WrapTextInColorCode("Underwater Delves,") 
 .. " allowing for infinite breath.\n\n" .."Won't be able to re-equip " 
-.. "\'Main\' Fishing Rod inside the delve while active."] = "Сохраняет форму рыбы активной при вылазках в " 
+.. "\'Main\' Fishing Rod inside the delve while active."] = "Сохраняет форму рыбы активной в " 
 .. colorDarkBlu:WrapTextInColorCode("Подводных вылазках,") .. " позволяя дышать бесконечно.\n\n" 
 .."Невозможно повторно экипировать " .. "\'Основную\' удочку внутри вылазки, пока активно."
 
